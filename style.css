@@ -479,20 +479,6 @@ h3 {
 	width: auto;
 }
 
-.play .winContainer .right .auth {
-	float: right;
-	height: auto;
-	padding: .3rem .5rem;
-	width: auto;
-	text-align: center;
-	background-color: #3667b1;
-	border-radius: 20px;
-	color: #fff;
-	margin-top: 0px;
-	font-size: 14px;
-	box-shadow: 0px 0px 0px #ffffff00;
-}
-
 .auth1 {
 	box-shadow: 0px 0px 15px #3e46a7;
 	animation: shadow_live 3s infinite ease-in-out;
@@ -812,4 +798,16 @@ body {
 	left: 50%;
 	margin-right: -50%;
 	transform: translate(-50%, -50%);
+}
+
+.goAuth {
+    float: right;
+    width: auto;
+    text-align: center;
+    background-color: #3667b1;
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 0px;
+    font-size: 14px;
+    box-shadow: 0px 0px 0px #ffffff00;
 }
