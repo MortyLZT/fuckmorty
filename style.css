@@ -817,3 +817,6 @@ body {
 .goAuth:hover {
     background-color: rgb(51, 95, 162);
 }
+a.goAuth {
+    padding: inherit;
+}
