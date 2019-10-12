@@ -819,6 +819,6 @@ body {
 	 cursor: pointer;
 }
 a.goAuth {
-    padding: inherit;
+padding: 0.5rem 0.9rem;
     cursor: pointer;
 }
