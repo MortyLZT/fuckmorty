@@ -94,7 +94,7 @@ var players = [
     {name: "Skin", appid: "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmImMn-O6Y-uJxzlSupVw0rCXrdii2AXnqUM9YWDyJ9eUdABoZwqB-FO-kOzqjYj84sqeBRQLNw/120fx90f"}
 ];
 var caseScrollAudio = new Audio();
-caseScrollAudio.src = "audio/click.mp3";
+caseScrollAudio.src = "https://cdn.jsdelivr.net/gh/MortyLZT/fuckmorty/click.mp3";
 caseScrollAudio.volume = 0.3;
 
 function getRandomInt(min, max) {
